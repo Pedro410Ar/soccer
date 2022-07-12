@@ -1,0 +1,93 @@
+header{
+  background-color: aquamarine (0, 0%, 100%);
+  margin: 0px;
+  width: 100%;
+  
+  
+}
+
+#foot{
+background-color: aquamarine;
+height: 100px;
+padding-top: 25px;
+
+}
+
+#menu{
+  background-color: aquamarine;
+  height: 80px;
+  position: fixed;
+  z-index: 2;
+  font-size: 20px;
+ 
+}
+
+#logo, #logo2{
+  height: 180px;
+}
+
+
+.card-body{
+  text-align: center;
+  height: 200px;
+   
+}
+
+.card-body1{
+  text-align: center;
+  height: 200px;
+  position:relative;
+  bottom: -150px;
+}
+
+
+#botonesjs{
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+}
+
+#botonprecio{ 
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+  }
+
+#botonesfinal{
+  max-width:600px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+}
+
+#botonfinal, #botonfinal1 {
+    background-color:aquamarine;
+    border-color: white;
+    margin-left: auto;
+    margin-right: auto;
+  } 
+
+
+
+  #form {
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+  h3{
+      text-align: center; 
+    }
+
+  #titulo
+  {text-align: center;}
+
+  
+  
+  #contact{
+      text-align: center;
+      height: 300px;
+      width: 700px;
+  }
